@@ -1,0 +1,12 @@
+.btnCount{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.btnCount button{
+    margin: 10px;
+}
+
+
+

@@ -1,0 +1,24 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color:white;
+}
+#logo{
+    width: 150px;
+}
+.className{
+    margin: 10px;
+}
+.navigation {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .linkProductos {
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    margin-top: 50px;
+  }
+  
